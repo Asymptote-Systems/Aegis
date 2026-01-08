@@ -1,0 +1,23 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"380\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry width=\"120\" height=\"340\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=none;html=1;rounded=0;\" edge=\"1\" parent=\"3\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"340\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"endArrow=none;html=1;rounded=0;\" edge=\"1\" parent=\"3\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"340\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"120\" y=\"340\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"endArrow=none;html=1;rounded=0;\" edge=\"1\" parent=\"3\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"120\" y=\"340\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"120\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"7\" value=\"STACK\" style=\"text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"35\" y=\"350\" width=\"50\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 380,
+    "aspect": "fixed",
+    "title": "Stack"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"data\" style=\"rounded=0;whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "data"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"75\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"shape=flexArrow;endArrow=classic;html=1;rounded=0;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"5\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"75\" as=\"targetPoint\"/&gt;&lt;Array as=\"points\"&gt;&lt;mxPoint x=\"35\"/&gt;&lt;/Array&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"&amp;lt;div&amp;gt;TOP&amp;lt;/div&amp;gt;\" style=\"text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"60\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 75,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "Top"
+  }
+]</mxlibrary>
